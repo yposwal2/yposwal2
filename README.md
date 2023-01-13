@@ -8,7 +8,7 @@
 
 
 <b>Azure Labs:</b>
-- [Creating a Virtual Machine on Azure](https://github.com/yposwal2/Creating-VM-On-Azure)
+- [Creating Virtual Machine in Azure Portal](https://github.com/yposwal2/Creating-VM-On-Azure)
 
 
 
