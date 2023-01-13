@@ -9,9 +9,7 @@
 
 <b>Azure Labs:</b>
 - [Creating Virtual Machine in Azure Portal](https://github.com/yposwal2/Creating-VM-On-Azure)
-
-
-
+- [Capturing Image of a Virtual Machine in Azure Portal](https://github.com/yposwal2/Creating-VM-On-Azure)
 
 
 <h2>📜 Certifications:</h2>
