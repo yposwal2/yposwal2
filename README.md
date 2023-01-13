@@ -1,6 +1,6 @@
 <h1>Hi, I'm Yashvender! </h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Projects & Labs:</h2>
 
 
 <h2>📜 Certifications:</h2>
