@@ -2,10 +2,19 @@
 
 <h2>👨‍💻 Projects & Labs:</h2>
 
+<b>Azure Projects:</b>
+
+
+
+
+<b>Azure Labs:</b>
+- [Creating a Virtual Machine in Azure Portal](https://github.com/joshmadakor1/AD_PS)
+
+
+
+
 
 <h2>📜 Certifications:</h2>
-
-
 
 
 <h3> 🤳 Connect with me:</h3>
