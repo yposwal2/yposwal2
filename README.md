@@ -11,7 +11,7 @@
 - [Creating Virtual Machine in Azure Portal](https://github.com/yposwal2/Creating-VM-On-Azure)
 - [Capturing Image of a Virtual Machine in Azure Portal](https://github.com/yposwal2/Capturing-Image-of-VM-on-Azure)
 - [Attaching extra disk to Virtual Machine in Azure Portal](https://github.com/yposwal2/Attaching-extra-disk-to-VM-in-Azure)
-- [Creating Virtual Network in Azure Portal](https://github.com/yposwal2/Attaching-extra-disk-to-VM-in-Azure)
+- [Creating Virtual Network in Azure Portal](https://github.com/yposwal2/Creating-VN-On-Azure)
 
 
 <h2>📜 Certifications:</h2>
