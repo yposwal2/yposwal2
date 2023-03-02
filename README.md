@@ -19,6 +19,6 @@
 
 <h3> 🤳 Connect with me:</h3>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="50px" src="https://i.imgur.com/OPcfust.jpg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/yashvender-poswal-726841252/
