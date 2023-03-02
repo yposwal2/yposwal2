@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects & Labs:</h2>
 
 <b>Azure Projects:</b>
-
+- [eStore Billing System using C](https://github.com/yposwal2/eStore-Billing-System-Using-C/blob/main/README.md)
 
 
 
