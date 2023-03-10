@@ -14,9 +14,7 @@
 
 <b>Python 🧑‍💻 Projects:</b>
 - [Quiz Game using Python](https://github.com/yposwal2/Quiz-Game-Using-Python)
-
-
-
+- [Currency Converter using Python](https://github.com/yposwal2/Currency-Converter-Using-Python)
 
 
 <h2>📜 Certifications:</h2>
