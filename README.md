@@ -11,7 +11,7 @@
 <b>C 🧑‍💻 Projects:</b>
 - [eStore Billing System using C](https://github.com/yposwal2/eStore-Billing-System-Using-C)
 - [ATM System using C](https://github.com/yposwal2/Cashmaster-ATM-System-Using-C)
-- [Weather App using C](https://github.com/yposwal2/Cashmaster-ATM-System-Using-C)
+- [Weather App using C](https://github.com/yposwal2/Weather-App-Using-C)
 
 <b>Python 🧑‍💻 Projects:</b>
 - [Quiz Game using Python](https://github.com/yposwal2/Quiz-Game-Using-Python)
