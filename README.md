@@ -19,7 +19,7 @@
 - [Currency Converter using Python](https://github.com/yposwal2/Currency-Converter-Using-Python)
 
 
-<h2>Skill Badge 📛</h2>
+<h2>📜 Skill Badge</h2>
 
 <b></b>
 - [C Programming](https://drive.google.com/file/d/1tFGaLD7tkMkjfUztQsiM-K2_wa5DgLmd/view)
