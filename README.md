@@ -17,6 +17,7 @@
 <b>Python 🧑‍💻 Projects:</b>
 - [Quiz Game using Python](https://github.com/yposwal2/Quiz-Game-Using-Python)
 - [Currency Converter using Python](https://github.com/yposwal2/Currency-Converter-Using-Python)
+- [Random Password Generator using Python](https://github.com/yposwal2/Random-Password-Generator-Using-Python)
 
 
 <h2>📜 Skill Badge</h2>
