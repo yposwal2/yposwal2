@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects & Labs:</h2>
 
 <b>Networking Labs & Project (Cisco):</b>
+- [Configure a Wireless Router and Client](https://github.com/yposwal2/Creating-VM-On-Azure)
 
 
 
