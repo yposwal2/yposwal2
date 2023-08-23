@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects & Labs:</h2>
 
-<b>Networking Labs & Project (Cisco) Labs:</b>
+<b>Networking Labs & Project (Cisco):</b>
 
 
 
