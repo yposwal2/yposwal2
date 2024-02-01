@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Projects & Labs:</h2>
 
+<b>Cybersecurity Projects:</b>
+- [Configure a Wireless Router and Client](https://github.com/yposwal2/Configure-a-Wireless-Router-and-Client)
+
 <b>Networking 🛜 Labs & Projects (Cisco):</b>
 - [Configure a Wireless Router and Client](https://github.com/yposwal2/Configure-a-Wireless-Router-and-Client)
 - [Configure DHCP on a Wireless Router](https://github.com/yposwal2/Configure-DHCP-on-a-Wireless-Router)
